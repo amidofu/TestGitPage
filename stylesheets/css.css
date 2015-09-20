@@ -1,0 +1,13 @@
+.display-item {
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+#display-item1{
+	background: url("http://www.keenthemes.com/preview/metronic/theme/assets/global/plugins/jcrop/demos/demo_files/image1.jpg") no-repeat, black;
+	background-size: cover;
+}
+#display-item2{
+	background: url("https://www.wonderplugin.com/wp-content/plugins/wonderplugin-lightbox/images/demo-image0.jpg") no-repeat, black;
+	background-size: cover;
+}
